@@ -1,0 +1,8 @@
+.description-text {
+    font-family: 'Helvetica', sans-serif; /* 使用Helvetica字体，无衬线 */
+    font-size: 20px; /* 设置字体大小为20px */
+    color: #333333; /* 设置字体颜色为深灰色 */
+    line-height: 1.6; /* 设置行间距 */
+    margin-top: 20px; /* 在文本上方留出空间 */
+    text-align: justify; /* 使文字两端对齐，看起来更整洁 */
+}

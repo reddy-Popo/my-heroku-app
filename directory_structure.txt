@@ -1,0 +1,23 @@
+Folder PATH listing for volume Windows
+Volume serial number is 2A3E-A39E
+C:.
+│   .gitignore
+│   app.py
+│   Aptfile.txt
+│   directory_structure.txt
+│   Procfile.txt
+│   requirements.txt
+│   runtime.txt
+│   
+├───assets
+│       style.css
+│       
+└───catboost_info
+    │   catboost_training.json
+    │   learn_error.tsv
+    │   time_left.tsv
+    │   
+    ├───learn
+    │       events.out.tfevents
+    │       
+    └───tmp
